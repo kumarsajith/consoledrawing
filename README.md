@@ -19,6 +19,7 @@ You need Java version 1.8 or above to run the application.
 download the archive as zip file.
 Unzip to a folder
 
+
 ### Running the application
 
 Open a command prompt and then move to the location where you have unzipped the  file.
