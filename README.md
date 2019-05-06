@@ -15,10 +15,9 @@ The below instructions will get you a copy of the project and also executable ve
 You need Java version 1.8 or above to run the application.
 
 
-##Installing the application
+###Installing the application
 download the archive as zip file.
 Unzip to a folder
-
 
 ### Running the application
 
