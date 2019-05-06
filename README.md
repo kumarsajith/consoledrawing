@@ -6,6 +6,7 @@
 
 This is console version of a drawing canvas. 
 The current version can be used to create a Canvas, Draw lines, Rectangle and fill an area with a given color symbol.
+the app can be downloaded from https://github.com/kumarsajith/consoledrawing.git
 
 ## Getting Started
 
